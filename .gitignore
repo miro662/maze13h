@@ -1,0 +1,5 @@
+; MASM results
+*.exe
+*.obj
+; VS Code directory
+/.vscode/
